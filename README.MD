@@ -133,4 +133,5 @@ In summary, the script preprocesses the recipe data and input ingredients, vecto
 
 ## How to run# cs5293sp23-project2
 
+![Untitled design](https://user-images.githubusercontent.com/124123388/234463660-a8d00628-892f-4c06-9603-5c9efe253e80.gif)
 
