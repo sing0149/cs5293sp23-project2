@@ -31,7 +31,6 @@ def print_json(predicted_cuisine,cuisine_score,closest_cuisines):
             'score': cuisine_score,
             'closest': closest
         }
-    print("\n")
     # prints the result to console in json format
     print(json.dumps(output,indent=4))
 
